@@ -1,0 +1,35 @@
+.navbar-default{
+    background-color: #226597;
+    height: 100%;
+}
+.home-container{
+}
+
+li> a{
+    color: white;
+}
+.navbar-dark{
+    background-color:#124F7C ;
+    width: 100%;
+}
+
+
+.pages-container{
+    background-color:rgb(241, 241, 241);
+    height: 100vh;
+    width: 100%;
+    white-space: nowrap;
+    padding: 0rem !important;
+}
+.logo-inline{
+    width: 100%;
+}
+.clock-navbar{
+    font-size: 1.5rem; 
+}
+.date-navbar{
+    font-size: 0.75rem; 
+}
+.navbar-default, .navbar-static-side{
+    width: auto;
+}
